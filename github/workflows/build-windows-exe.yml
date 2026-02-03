@@ -49,3 +49,4 @@ jobs:
           name: youtube-clipper-windows
           path: release/youtube-clipper-windows.zip
 
+# trigger build
