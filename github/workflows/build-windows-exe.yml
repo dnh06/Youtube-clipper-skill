@@ -50,3 +50,4 @@ jobs:
           path: release/youtube-clipper-windows.zip
 
 # trigger build
+run build
